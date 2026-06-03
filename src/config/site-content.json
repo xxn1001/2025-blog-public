@@ -59,6 +59,13 @@
 			"value": "davesovvv@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1780496733348",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/1905874593920074",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
