@@ -1,0 +1,45 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh34",
+			"Value": 17.206,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh34",
+			"Value": 13.235,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh34",
+			"Value": 7.941,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh34",
+			"Value": 2.647,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh34",
+			"Value": -3.971,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh34",
+			"Value": -7.941,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh34",
+			"Value": -11.912,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_ArtMesh34",
+			"Value": -14.559,
+			"Blend": "Add"
+		}
+	]
+}
