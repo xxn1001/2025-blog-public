@@ -47,10 +47,24 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
+			"id": "button-1780569383308",
+			"type": "wechat",
+			"value": "/images/social-buttons/dbf481344e612f99.jpg",
+			"label": "",
+			"order": 1
+		},
+		{
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/xxn1001",
 			"label": "Github",
+			"order": 2
+		},
+		{
+			"id": "button-1780569291909",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/488448635?spm_id_from=333.1007.0.0",
+			"label": "blibli",
 			"order": 3
 		},
 		{
@@ -58,14 +72,7 @@
 			"type": "email",
 			"value": "davesovvv@gmail.com",
 			"label": "",
-			"order": 1
-		},
-		{
-			"id": "button-1780496733348",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/1905874593920074",
-			"label": "",
-			"order": 3
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
